@@ -1,0 +1,12 @@
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\bin\Debug\net8.0\Amazon.Library.deps.json
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\bin\Debug\net8.0\Amazon.Library.dll
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\bin\Debug\net8.0\Amazon.Library.pdb
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.AssemblyInfoInputs.cache
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.AssemblyInfo.cs
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.csproj.CoreCompileInputs.cache
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.sourcelink.json
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.dll
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\refint\Amazon.Library.dll
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\Amazon.Library.pdb
+C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\obj\Debug\net8.0\ref\Amazon.Library.dll
