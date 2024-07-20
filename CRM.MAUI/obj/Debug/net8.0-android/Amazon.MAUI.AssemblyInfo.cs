@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amazon.MAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4d5608b79ecb19ba2052dfdbc80e37b19f386ad9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+925ade3c5dc070fb64745a11525415949cbf115d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amazon.MAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amazon.MAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

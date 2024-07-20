@@ -119,10 +119,10 @@
                                            Aspect="AspectFit" HeightRequest="160" 
                                            Margin="0,0,0,20"/>
                                     <Label />
-                                    <!--<Label Text="{Binding DisplayQuantity}" Grid.Row="2" Grid.ColumnSpan="4"
+                                    <Label Text="{Binding DisplayQuantity}" Grid.Row="2" Grid.ColumnSpan="4"
                                            TextColor="Black"
                                        FontSize="Default"
-                                       HorizontalOptions="Center"/>-->
+                                       HorizontalOptions="Center"/>
                                     <Label Text="{Binding DisplayPrice}" Grid.Row="3" Grid.ColumnSpan="4"
                                            TextColor="Black"
                                            

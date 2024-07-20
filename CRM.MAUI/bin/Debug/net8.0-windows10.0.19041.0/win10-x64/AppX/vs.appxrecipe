@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.crm.maui</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>B4D1BF215D2449B620D94362291EA55212432E5D665D05402C0FBE992CBA510F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.crm.maui_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.crm.maui_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,248 +27,248 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-17T05:30:33.838</Modified>
+      <Modified>2024-07-20T19:24:54.668</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2024-07-16T19:52:10.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.runtimeconfig.json">
       <PackagePath>Amazon.MAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-16T01:52:24.701</Modified>
+      <Modified>2024-07-17T08:24:50.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.dll">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.dll">
       <PackagePath>Amazon.MAUI.dll</PackagePath>
-      <Modified>2024-07-17T05:30:32.136</Modified>
+      <Modified>2024-07-20T19:24:52.544</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Amazon.MAUI.exe</PackagePath>
-      <Modified>2024-07-17T05:30:32.243</Modified>
+      <Modified>2024-07-20T19:24:52.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-06-14T00:32:32.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-06-19T22:03:29.903</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-06-19T22:03:29.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-06-19T22:03:29.973</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-06-19T22:03:30.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-06-19T22:03:30.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-06-14T00:32:31.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-06-14T00:32:32.059</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-07-16T19:51:35.161</Modified>
+      <Modified>2024-07-17T05:54:00.320</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.301</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.153</Modified>
+      <Modified>2024-07-17T05:54:00.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.153</Modified>
+      <Modified>2024-07-17T05:54:00.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.148</Modified>
+      <Modified>2024-07-17T05:54:00.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.159</Modified>
+      <Modified>2024-07-17T05:54:00.320</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.159</Modified>
+      <Modified>2024-07-17T05:54:00.320</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.156</Modified>
+      <Modified>2024-07-17T05:54:00.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.156</Modified>
+      <Modified>2024-07-17T05:54:00.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.156</Modified>
+      <Modified>2024-07-17T05:54:00.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.156</Modified>
+      <Modified>2024-07-17T05:54:00.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.156</Modified>
+      <Modified>2024-07-17T05:54:00.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.153</Modified>
+      <Modified>2024-07-17T05:54:00.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.155</Modified>
+      <Modified>2024-07-17T05:54:00.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.155</Modified>
+      <Modified>2024-07-17T05:54:00.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.143</Modified>
+      <Modified>2024-07-17T05:54:00.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.144</Modified>
+      <Modified>2024-07-17T05:54:00.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-07-16T19:51:35.128</Modified>
+      <Modified>2024-07-17T05:54:00.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.deps.json">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Amazon.MAUI.deps.json">
       <PackagePath>Amazon.MAUI.deps.json</PackagePath>
-      <Modified>2024-07-16T19:52:09.954</Modified>
+      <Modified>2024-07-17T08:24:50.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\antof\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -554,9 +554,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-03-08T18:44:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg3 Nuevo\ConsoleApp\CRM.Library\bin\Debug\net8.0\CRM.Library.dll">
+    <AppxPackagedFile Include="C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\CRM.Library\bin\Debug\net8.0\CRM.Library.dll">
       <PackagePath>CRM.Library.dll</PackagePath>
-      <Modified>2024-07-17T03:28:39.919</Modified>
+      <Modified>2024-07-20T19:24:40.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\antof\.nuget\packages\microsoft.maui.controls.compatibility\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

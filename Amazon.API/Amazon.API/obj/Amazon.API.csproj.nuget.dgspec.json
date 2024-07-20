@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj": {}
+    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj": {
+    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
+        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
         "projectName": "Amazon.API",
-        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
+        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
         "packagesPath": "C:\\Users\\antof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\obj\\",
+        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

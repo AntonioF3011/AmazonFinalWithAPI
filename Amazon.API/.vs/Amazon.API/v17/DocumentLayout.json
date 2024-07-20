@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\",
+  "WorkspaceRootPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\database\\fakedatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\database\\fakedatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\ec\\inventoryec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\ec\\inventoryec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\ec\\inventoryec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\amazon.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\database\\fakedatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\database\\fakedatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\amazon.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\amazon.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg3 nuevo\\consoleapp\\amazon.api\\amazon.api\\amazon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|c:\\users\\antof\\onedrive\\desktop\\c#\\assg4\\consoleapp\\amazon.api\\amazon.api\\amazon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{64B03A71-121B-4D24-9CF4-1A2B5B11C9B1}|Amazon.API\\Amazon.API.csproj|solutionrelative:amazon.api\\amazon.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,25 +53,28 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Amazon.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Amazon.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T05:27:22.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T05:27:22.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Amazon.API.http",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.http",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.http",
               "RelativeDocumentMoniker": "Amazon.API\\Amazon.API.http",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.http",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.http",
               "RelativeToolTip": "Amazon.API\\Amazon.API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -81,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Program.cs",
               "RelativeDocumentMoniker": "Amazon.API\\Program.cs",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Program.cs",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Program.cs",
               "RelativeToolTip": "Amazon.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "Amazon.API\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Controllers\\InventoryController.cs",
               "RelativeToolTip": "Amazon.API\\Controllers\\InventoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T21:34:27.853Z",
               "EditorCaption": ""
@@ -106,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Amazon.API.csproj",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
               "RelativeDocumentMoniker": "Amazon.API\\Amazon.API.csproj",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Amazon.API.csproj",
               "RelativeToolTip": "Amazon.API\\Amazon.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -116,26 +119,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FakeDatabse.cs",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Database\\FakeDatabse.cs",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Database\\FakeDatabse.cs",
               "RelativeDocumentMoniker": "Amazon.API\\Database\\FakeDatabse.cs",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\Database\\FakeDatabse.cs",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\Database\\FakeDatabse.cs",
               "RelativeToolTip": "Amazon.API\\Database\\FakeDatabse.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T04:24:39.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T04:24:39.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InventoryEC.cs",
-              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\EC\\InventoryEC.cs",
+              "DocumentMoniker": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\EC\\InventoryEC.cs",
               "RelativeDocumentMoniker": "Amazon.API\\EC\\InventoryEC.cs",
-              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg3 Nuevo\\ConsoleApp\\Amazon.API\\Amazon.API\\EC\\InventoryEC.cs",
+              "ToolTip": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\Amazon.API\\Amazon.API\\EC\\InventoryEC.cs",
               "RelativeToolTip": "Amazon.API\\EC\\InventoryEC.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwBwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T04:10:40.283Z",
               "EditorCaption": ""
