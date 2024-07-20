@@ -68,3 +68,4 @@ C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\Amazon.API\Amazon.API\obj\De
 C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\Amazon.API\Amazon.API\obj\Debug\net8.0\Amazon.API.pdb
 C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\Amazon.API\Amazon.API\obj\Debug\net8.0\Amazon.API.genruntimeconfig.cache
 C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\Amazon.API\Amazon.API\obj\Debug\net8.0\ref\Amazon.API.dll
+C:\Users\antof\OneDrive\Desktop\C#\Assg4\ConsoleApp\Amazon.API\Amazon.API\bin\Debug\net8.0\Newtonsoft.Json.dll
