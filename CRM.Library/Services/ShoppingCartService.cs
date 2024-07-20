@@ -80,7 +80,8 @@ namespace CRM.Library.Services
             }
 
             Current.Cart.Contents.Add(newProduct);
-            --inventoryProduct.Quantity;
+            --newProduct.Quantity;
+            ProductServiceProxy.Current.AddOrUpdate(newProduct);
             Subtotal();
    
             
@@ -94,11 +95,13 @@ namespace CRM.Library.Services
                 var inventoryProduct = ProductServiceProxy.Current.Products.FirstOrDefault(p => p.Id == product.Id);
                 if (inventoryProduct != null)
                 {
-                    ++inventoryProduct.Quantity;
+                    ++product.Quantity;
                 }
-                Cart?.Contents.Remove(productToRemove);
-    }
-}
+                Cart?.Contents.Remove(product);
+                ProductServiceProxy.Current.AddOrUpdate(product);
+
+            }
+        }
 
         public decimal? Subtotal() //returns the price after applying the buyOneGetOne offer 
         {

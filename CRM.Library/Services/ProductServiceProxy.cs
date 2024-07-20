@@ -70,12 +70,7 @@ namespace CRM.Library.Services
         
         public async Task<ProductDTO> Delete(int id)
         {
-            //var productToDelete = Products.FirstOrDefault(p => p.Id == id);
-            //if (productToDelete == null)
-            //{
-            //    return null;
-            //}
-            //products.Remove(productToDelete);
+
             var response = await new WebRequestHandler().Delete($"/{id}");
             var productToDelete = JsonConvert.DeserializeObject<ProductDTO>(response);
             return productToDelete;
